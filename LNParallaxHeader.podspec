@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
     
   s.name                  = 'LNParallaxHeader'
-  s.version               = '1.0.0'
+  s.version               = '1.0.1'
   s.summary               = 'Header parallax effect in UICollectionView'
   s.homepage              = 'https://github.com/LanarsInc/LNParallaxHeader'
   s.license               = { :type => 'BSD', :file => 'LICENSE' }
-  s.author                = { 'OleksandrLan' => 'oleksandr@lanars.com' }
+  s.author                = { 'Lanars' => 'https://github.com/LanarsInc' }
   s.source                = { :git => 'https://github.com/LanarsInc/LNParallaxHeader.git', :tag => s.version.to_s }
   s.frameworks            = 'UIKit'
   s.ios.deployment_target = '10.0'
