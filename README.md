@@ -5,6 +5,8 @@
 ![Swift 5.0](https://img.shields.io/badge/Swift-5.0-orange.svg)
 [![License](http://img.shields.io/badge/license-BSD-lightgrey.svg?style=flat)](https://github.com/LanarsInc/LNParallaxHeader/blob/master/LICENSE)
 
+Header parallax effect in UICollectionView
+
 ![Preview](https://github.com/LanarsInc/LNParallaxHeader/blob/master/Resources/Demo.gif)
 
 ## Requirements
