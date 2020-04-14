@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/cocoapods/v/LNParallaxHeader.svg?style=flat)](https://cocoapods.org/pods/LNParallaxHeader)
 [![Platform](http://img.shields.io/badge/platform-iOS-green.svg?style=flat)](https://github.com/LanarsInc/LNParallaxHeader)
 ![Swift 5.0](https://img.shields.io/badge/Swift-5.0-orange.svg)
-[![License](https://img.shields.io/cocoapods/l/LNParallaxHeader.svg?style=flat)](https://github.com/LanarsInc/LNParallaxHeader/blob/master/LICENSE)
+[![License](http://img.shields.io/badge/license-BSD-lightgrey.svg?style=flat)](https://github.com/LanarsInc/LNParallaxHeader/blob/master/LICENSE)
 
 ![Preview](https://github.com/LanarsInc/LNParallaxHeader/blob/master/Resources/Demo.gif)
 
