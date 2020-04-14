@@ -34,6 +34,8 @@ If you prefer not to use any of the aforementioned dependency managers, you can 
 
 1. You can add LNParallaxHeaderFlowLayout to CollectionViewFlowLayout
 
+![Preview](https://github.com/LanarsInc/LNParallaxHeader/blob/master/Resources/ParallaxHeaderFlowLayout.png)
+
 2. Or you can programmatically create
 
 Import LNParallaxHeader module to your class 
