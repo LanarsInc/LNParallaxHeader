@@ -53,7 +53,7 @@ func prepareCollectionViewLayout() {
     collectionView.collectionViewLayout = layout
 }
 ```
-Also check out an example project with [parralax header view](https://github.com/LanarsInc/LNParallaxHeader/tree/master/Example)
+Also check out an example project with [parallax header view](https://github.com/LanarsInc/LNParallaxHeader/tree/master/Example)
 
 ## License
 
