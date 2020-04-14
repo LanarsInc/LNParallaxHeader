@@ -1,0 +1,6 @@
+framework module Pods_LNParallaxHeader_Example {
+  umbrella header "Pods-LNParallaxHeader_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

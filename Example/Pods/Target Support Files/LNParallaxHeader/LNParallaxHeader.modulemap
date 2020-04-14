@@ -1,0 +1,6 @@
+framework module LNParallaxHeader {
+  umbrella header "LNParallaxHeader-umbrella.h"
+
+  export *
+  module * { export * }
+}

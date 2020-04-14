@@ -1,0 +1,16 @@
+PODS:
+  - LNParallaxHeader (1.0.0)
+
+DEPENDENCIES:
+  - LNParallaxHeader (from `../`)
+
+EXTERNAL SOURCES:
+  LNParallaxHeader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LNParallaxHeader: c00db2f5b8ac4ffef653e7d9d9676e6643e3f2c2
+
+PODFILE CHECKSUM: ee64a4780818364b4e72d03c951d40393b45cddf
+
+COCOAPODS: 1.9.1

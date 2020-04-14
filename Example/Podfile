@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LNParallaxHeader_Example' do
+  pod 'LNParallaxHeader', :path => '../'
+
+  target 'LNParallaxHeader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
